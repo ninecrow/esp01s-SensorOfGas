@@ -23,12 +23,11 @@
 
 // Update these with values suitable for your network.
 
-const char* ssid = "WXD-MOBILE";
-//const char* ssid = "Ruijie-wuxudong";
-const char* password = "DCBA991024";
-const char* mqtt_server = "post-cn-n6w1wrvt815.mqtt.aliyuncs.com";
-char* mqtt_username = "Signature|LTAI4G2aZUGoSRwpbAF3hKhT|post-cn-n6w1wrvt815";
-char* mqtt_password = "xjTVMbDh7vb1YJ2wsW++jnbLUgA=";
+const char* ssid = "wifi ssid";
+const char* password = "wifi password";
+const char* mqtt_server = "mqtt server";
+char* mqtt_username = "alyun username";
+char* mqtt_password = "alyun password";
 char mqtt_msg[30]="";
 int num=0;
 
